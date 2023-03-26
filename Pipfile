@@ -4,6 +4,14 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
+notebook = "*"
+numpy = "*"
+torch = "*"
+matplotlib = "*"
+seaborn = "*"
+tqdm = "*"
+pygame = "*"
+ipympl = "*"
 
 [dev-packages]
 

@@ -1,11 +1,10 @@
-# benkyo_notebooks
+# miscellaneous_notebooks
 ## これはなに
-- 勉強のアウトプット用のnotebookまとめ
+- 雑多なnotebookのまとめ  
 
 
 ## requirements
 - 環境はpipenvをベースにpip installでぽいぽいパッケージを入れてます
-    - ほんとはpoetryあたり使いたかったけど環境の用意がだるかったので
 
 - python=3.9
 -
