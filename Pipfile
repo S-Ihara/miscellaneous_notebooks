@@ -5,13 +5,10 @@ name = "pypi"
 
 [packages]
 notebook = "*"
-numpy = "*"
-torch = "*"
+torch = "2.0"
 matplotlib = "*"
 seaborn = "*"
 tqdm = "*"
-pygame = "*"
-ipympl = "*"
 
 [dev-packages]
 
