@@ -9,6 +9,7 @@ torch = "2.0"
 matplotlib = "*"
 seaborn = "*"
 tqdm = "*"
+line_profiler = "*"
 
 [dev-packages]
 
