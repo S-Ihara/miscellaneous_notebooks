@@ -1,4 +1,5 @@
 draft/
+venv/
 
 *.gif
 .ipynb_checkpoints
